@@ -1,4 +1,4 @@
-#DRAMP3.0
+DRAMP3.0
 Scripts for code of DRAMP 3.0
 
 The program provides the source code of the DRAMP database.
